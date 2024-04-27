@@ -1,3 +1,4 @@
 ecomm-app-graphql-main/node_modules
 graphql-project-mgmt-main/client/node_modules
 graphql-project-mgmt-main/server/node_modules
+graphql-project-mgmt-main/server/.env
